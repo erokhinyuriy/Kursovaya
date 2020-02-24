@@ -1,4 +1,4 @@
-Python 3.8.0 (tags/v3.8.0:fa919fd, Oct 1
+
 >>> def bubble (arr,dim):
 	alg_count = [0,0]
 	for i in range (0, dim - 1):
