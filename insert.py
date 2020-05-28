@@ -1,4 +1,4 @@
-ef insert(arr, dim):
+def insert(arr, dim):
     alg_count = [0, 0]  
     for i in range(1, dim): 
         temp = arr[i]  
